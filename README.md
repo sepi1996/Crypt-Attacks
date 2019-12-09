@@ -1,2 +1,2 @@
-# Crypt-Attacks
+# Crypto-Attacks
 Soma basic crypto attacks
