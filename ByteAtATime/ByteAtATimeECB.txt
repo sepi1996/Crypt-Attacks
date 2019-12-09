@@ -1,0 +1,1 @@
+We will also need to know the encryption mode. Determining this is quite easy, since in the case that the encryption of each block is independent, two blocks that have the same data will have the same data in their respective blocks of encrypted text.

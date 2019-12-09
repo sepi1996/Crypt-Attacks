@@ -1,0 +1,1 @@
+Flow encryption is a symmetric key encryption where plain text digits are combined with a flow of pseudorandom encryption digits (key flow). In a flow encryption, each plain text digit is encrypted one at a time with the corresponding digit of the key flow, to give a digit of the encrypted text flow.
